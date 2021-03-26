@@ -1,0 +1,5 @@
+Task Multiple Linear Regression
+https://www.kaggle.com/mrakacms/multiple-linear-regr
+# Nama : Muhammad Raka Candra Murti Sugiyanata
+# NIM : 1202922003
+
